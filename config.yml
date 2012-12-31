@@ -1499,10 +1499,10 @@ glyphs:
     uid: 935e2e437efbb3a69ed9a83e2d2f637e
     search: [qq, social, logo]
 
-  - css: instagrem
+  - css: instagram
     code: 0xf32d
     uid: 0fbfb1cd7a847c88ea4c141d0e1bbdb5
-    search: [instagrem, social, logo]
+    search: [instagram, social, logo]
 
   - css: dropbox
     code: 0xf330
