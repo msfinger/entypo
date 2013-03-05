@@ -554,12 +554,12 @@ glyphs:
   - css: cog
     code: 0x2699
     uid: bc64550dd022ce21604f97309b346cea
-    search: [settings, cog, gear]
+    search: [settings, cog, gear, params]
 
   - css: tools
     code: 0x2692
     uid: 6a7b9d4863bb7e6c79e9457a72d689b6
-    search: [tools]
+    search: [tools, params]
 
 
   - css: share
@@ -1153,7 +1153,7 @@ glyphs:
   - css: graduation-cap
     code: 0x1f393
     uid: ef74ff62feda486fd414410e782b598a
-    search: [graduation]
+    search: [graduation, study]
 
   - css: language
     code: 0xe752
